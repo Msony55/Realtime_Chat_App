@@ -6,7 +6,7 @@ Frontend repo : [https://github.com/Msony55/Chat_Frontend](https://github.com/Ms
 
 Backend repo : [https://github.com/Msony55/Chat_backend](https://github.com/Msony55/Chat_backend).
 
-##Technology Used
+## Technology Used
 <ol>
     <li><a href="https://angular.io/">Angular.io</a></li>
     <li><a href="https://nodejs.org/en/">NodeJS</a></li>
