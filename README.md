@@ -18,7 +18,7 @@ Backend repo : [https://github.com/Msony55/Chat_backend](https://github.com/Mson
 The target audience is any person who wants to use a chat application.Keeping in touch with friends and family has never been easier. If you have an internet connection, you can send a message to anyone, anywhere, free of charge.
 
 ## Note:- 
-you may be face some delay in signin or signup because of this web app backend host on heroku US server and our database is monogdb atlas So, it's take some time to response our request. After signin our App is working smoothly.
+You may  face some delay in signin or signup because  this web app backend is hosted on heroku US server and our database is monogdb atlas So, it take some time to response our request. After signin our App is working smoothly.
 
 
 
