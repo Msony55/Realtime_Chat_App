@@ -6,6 +6,10 @@ Frontend repo : [https://github.com/Msony55/Chat_Frontend](https://github.com/Ms
 
 Backend repo : [https://github.com/Msony55/Chat_backend](https://github.com/Msony55/Chat_backend) Hosting on Heroku.
 
+## Screenshots
+![](https://github.com/Msony55/Realtime_Chat_App/blob/main/Screenshot%20(12).png)
+
+
 ## Technology Used
 <ol>
     <li><a href="https://angular.io/">Angular.io</a></li>
